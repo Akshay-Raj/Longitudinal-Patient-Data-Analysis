@@ -1,0 +1,10 @@
+Number of valid male patients is 162
+Number of valid female patients is 190
+
+Maximum timeline of patients is 984
+Minimum timeline of patients is 1
+Median timeline of patients is 329
+
+Maximum age of patients is 92
+Minimum age of patients is 2
+Median  age of patients is 63.0
